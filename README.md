@@ -35,6 +35,7 @@ The target users include finance students, entry-level investors, and anyone lea
 ## 6. Product & Demo Links
 - GitHub Repository: (https://github.com/duyumiao/ACC102track2)
 - Demo Video: https://www.bilibili.com/video/BV1cwoFB3EBD/
+              https://video.xjtlu.edu.cn/Mediasite/MyMediasite/embedded/presentations/fbcd77b920af42ac9cad69f3871620141d
 
 ## 7. Limitations & Improvements
 - Limitations: Only three companies included; no financial ratio analysis
